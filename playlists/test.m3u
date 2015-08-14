@@ -1,0 +1,18 @@
+﻿#EXTM3U
+EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/lb.png",*javier**99382312
+rtmp://50.7.78.138:443/live?kbjjHcUi6bZPicNvuKX5IxlcdGBj1HXm playpath=live_mega_movieshd  live=1 timeout=20
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/ja.png",AL JADEED
+http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_al_lubnaniya.png",MTV LIBANO HD
+http://livestreaming1.itworkscdn.net:1935/mtvlive/murrtelevision_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.png" ,OTV HD
+http://livestreaming.itworkscdn.net:1935/otvmobile/otvlive_1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.png",FUTURE 1HD
+http://livestreaming.itworkscdn.net/ftvlive/ftvlive/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/lbc_europe.png",LBC HD
+http://89.248.171.141/ts60/ch1020/index.m3u8?v=3160688277
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.png",LDC HD 
+http://89.248.171.141/ts60/ch1205/index.m3u8?v=3160688277
+
+
+
